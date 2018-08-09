@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adapter_week_rl"
+    android:layout_width="match_parent"
+    android:layout_height="41dp"
+    android:background="#9feaaf">
+
+    <TextView
+        android:id="@+id/adapter_week"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:background="#9feaaf"
+        android:gravity="center"
+        android:text="三"
+        android:textColor="#0b8325"
+        android:textSize="16sp" />
+</RelativeLayout>
